@@ -42,8 +42,7 @@ I'm excited to have you here! I'm a passionate learner exploring the vast world 
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" height="40" alt="nestjs logo"  />
-  <img width="12" />
+  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="40" alt="jest logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
@@ -56,13 +55,15 @@ I'm excited to have you here! I'm a passionate learner exploring the vast world 
   
  
 </div>
-###
+
 📫 Get in Touch
 Feel free to reach out to me:
 
 LinkedIn :www.linkedin.com/in/tarungupta45
 <br>
+<br>
 tarun.gupta2606@gmail.com
+<br>
 <br>
 Let's connect and collaborate on exciting projects!
 <br>
