@@ -2,15 +2,14 @@
 
 ###
 
-<p align="left">My name is ... and I'm a ..., from ....</p>
+<p align="left">My name is Tarun Gupta and I'm a Python Developer and a Data Analyst, from Hapur</p>
 
 ###
 
 <h2 align="left">About me</h2>
+<p>A CS student who is trying to good at his career..</p>
 
-###
-
-<p align="left">✨ Creating bugs since ...<br>📚 I'm currently learning ...<br>🎯 Goals: ...<br>🎲 Fun fact: ...</p>
+<p align="left">✨ Creating bugs since 2023<br>📚 I'm currently learning Django and Data analyst <br>🎯 Goals: Create Unique apps with AI0<br>🎲 Fun fact: You can start this after many failures </p>
 
 ###
 
