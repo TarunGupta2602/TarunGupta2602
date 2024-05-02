@@ -21,7 +21,7 @@ I'm excited to have you here! I'm a passionate learner exploring the vast world 
 🎓 Completed BCA and currently pursuing MCA to deepen my understanding of computer applications.
 
 
-<p align="left">✨ Creating bugs since 2023<br>📚 I'm currently learning Django and Data analyst <br>🎯 Goals: Create Unique apps with AI0<br>🎲 Fun fact: You can start this after many failures </p>
+<p align="left">✨ Creating bugs since 2020<br>📚 I'm currently learning Django and Data analyst <br>🎯 Goals: Create Unique apps <br>🎲 Fun fact: You can start this after many failures </p>
 
 ###
 
