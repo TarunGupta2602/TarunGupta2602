@@ -64,8 +64,10 @@ I'm excited to have you here! I'm a passionate learner exploring the vast world 
 Feel free to reach out to me:
 
 LinkedIn :www.linkedin.com/in/tarungupta45
+<br>
 tarun.gupta2606@gmail.com
+<br>
 Let's connect and collaborate on exciting projects!
-
+<br>
 Thanks for stopping by! ✨
 ###
