@@ -4,14 +4,16 @@
 
 
 👋 Welcome to My GitHub Profile!
-###
-<h2 align="left">About me</h2>
-###
-###
-<p align="left">My name is Tarun Gupta and I'm a Python Developer and a Data Analyst, from Hapur</p>
-###
-I'm excited to have you here! I'm a passionate learner exploring the vast world of technology and programming. Below, you'll find a snapshot of what I'm currently up to:
 
+<h2 align="left">About me</h2>
+
+<p align="left">My name is Tarun Gupta and I'm a Python Developer and a Data Analyst, from Hapur</p>
+<br>
+<br>
+<br>
+I'm excited to have you here! I'm a passionate learner exploring the vast world of technology and programming. Below, you'll find a snapshot of what I'm currently up to:
+<br>
+<br>
 🌱 About Me
 👨‍💻 I'm currently learning Django and building various projects to sharpen my web development skills.
 📊 Aspiring Data Analyst, diving deep into datasets to derive meaningful insights.
@@ -47,17 +49,13 @@ I'm excited to have you here! I'm a passionate learner exploring the vast world 
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-original.svg" height="40" alt="django logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
+
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="40" alt="sql server logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/excel/excel-original.svg" height="40" alt="excel logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/powerbi/powerbi-original.svg" height="40" alt="power bi logo"  />
+
+  
+ 
 </div>
 ###
 📫 Get in Touch
