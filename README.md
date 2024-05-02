@@ -7,10 +7,9 @@
 
 <h2 align="left">About me</h2>
 
-<p align="left">My name is Tarun Gupta and I'm a Python Developer and a Data Analyst, from Hapur</p>
+<p align="left">My name is Tarun Gupta and I'm a Python Developer and a Data Analyst.</p>
 <br>
-<br>
-<br>
+
 I'm excited to have you here! I'm a passionate learner exploring the vast world of technology and programming. Below, you'll find a snapshot of what I'm currently up to:
 <br>
 <br>
