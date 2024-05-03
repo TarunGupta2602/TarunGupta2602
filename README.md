@@ -62,7 +62,7 @@ Feel free to reach out to me:
 LinkedIn :www.linkedin.com/in/tarungupta45
 <br>
 <br>
-tarun.gupta2606@gmail.com
+email: tarun.gupta2606@gmail.com
 <br>
 <br>
 Let's connect and collaborate on exciting projects!
