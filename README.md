@@ -7,21 +7,20 @@
 
 <h2 align="left">About me</h2>
 
-<p align="left">My name is Tarun Gupta and I'm a Python Developer and a Data Analyst.</p>
+<p align="left">My Name is Tarun Gupta.</p>
 <br>
 
 I'm excited to have you here! I'm a passionate learner exploring the vast world of technology and programming. Below, you'll find a snapshot of what I'm currently up to:
 <br>
 <br>
 🌱 About Me
-👨‍💻 I'm currently learning Django and building various projects to sharpen my web development skills.
-📊 Aspiring Data Analyst, diving deep into datasets to derive meaningful insights.
-🚀 Exploring Java, C, and other languages to expand my programming horizons.
+👨‍💻 I'm currently learning Next.js,React.js and building various projects to sharpen my web development skills.
+🚀 Exploring JavaScript, TypeScript, C, and other languages to expand my programming horizons.
 🤖 Python aficionado, especially in the realm of AI, where I've gained expertise.
 🎓 Completed BCA and currently pursuing MCA to deepen my understanding of computer applications.
 
 
-<p align="left">✨ Creating bugs since 2020<br>📚 I'm currently learning Django and Data analyst <br>🎯 Goals: Create Unique apps <br>🎲 Fun fact: You can start this after many failures </p>
+<p align="left">✨ Creating bugs since 2020<br>📚 I'm currently learning Web Dev<br>🎯 Goals: Create Unique  web  apps <br>🎲 Fun fact: You can start this after many failures </p>
 
 ###
 
