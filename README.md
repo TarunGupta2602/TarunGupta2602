@@ -1,70 +1,71 @@
-<h1 align="left">Hey 👋 What's up?</h1>
+<h1 align="center">Hey there! 👋 Welcome to My GitHub Profile!</h1>
 
+<p align="center">
+  <img src="https://media.giphy.com/media/QTfX9Ejfra3ZmNxh6B/giphy.gif" width="200px" alt="Developer GIF" />
+</p>
 
+---
 
+<h2 align="left">🚀 About Me</h2>
 
-👋 Welcome to My GitHub Profile!
+<p>Hi, I'm <b>Tarun Gupta</b>, a passionate software developer and tech enthusiast. I specialize in <b>Full-Stack Web Development</b> and love building innovative applications that solve real-world problems.</p>
 
-<h2 align="left">About me</h2>
+<ul>
+  <li>👨‍💻 <b>Currently Learning</b>: Next.js, React.js, Backend Development.</li>
+  <li>📚 <b>Academic Background</b>: Completed <b>BCA</b>, currently pursuing <b>MCA</b>.</li>
+  <li>🚀 <b>Tech Enthusiast</b>: Exploring JavaScript, TypeScript, Python, and AI.</li>
+  <li>💡 <b>Fun Fact</b>: I believe that success comes after multiple failures, so keep pushing forward!</li>
+</ul>
 
-<p align="left">My Name is Tarun Gupta.</p>
-<br>
+---
 
-I'm excited to have you here! I'm a passionate learner exploring the vast world of technology and programming. Below, you'll find a snapshot of what I'm currently up to:
-<br>
-<br>
-🌱 About Me
-👨‍💻 I'm currently learning Next.js,React.js and building various projects to sharpen my web development skills.
-🚀 Exploring JavaScript, TypeScript, C, and other languages to expand my programming horizons.
-🤖 Python aficionado, especially in the realm of AI, where I've gained expertise.
-🎓 Completed BCA and currently pursuing MCA to deepen my understanding of computer applications.
+<h2 align="left">💻 Tech Stack</h2>
 
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,python,java,git,github,cloud" alt="Tech Stack" />
+</p>
 
-<p align="left">✨ Creating bugs since 2020<br>📚 I'm currently learning Web Dev<br>🎯 Goals: Create Unique  web  apps <br>🎲 Fun fact: You can start this after many failures </p>
+---
 
-###
+<h2 align="left">📌 Featured Projects</h2>
 
-<h2 align="left">I code with</h2>
+<h3>🌐 <b>Geeksoft</b> - Web & App Development</h3>
+<ul>
+  <li>🔗 <b>Live:</b> <a href="https://geeksoft.org">geeksoft.org</a></li>
+  <li>💼 <b>Services:</b> Web & App Development, Digital Marketing, Personal Branding</li>
+  <li>🛒 <b>Features:</b> Shopify integration, Stripe payment gateway</li>
+</ul>
 
-###
+<h3>📚 <b>Book Selling Platform</b></h3>
+<ul>
+  <li>📦 <b>Sell Books on Amazon India</b></li>
+  <li>💳 <b>Payment Gateway Integration</b></li>
+  <li>🔗 <b>Shopify Storefront API + Stripe Checkout</b></li>
+</ul>
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="40" alt="storybook logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="40" alt="jest logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
+<h3>💬 <b>Real-time Chat App</b></h3>
+<ul>
+  <li><b>Tech Stack:</b> Next.js, Firebase, WebRTC</li>
+  <li><b>Features:</b> Authentication, real-time messaging, video calls</li>
+</ul>
 
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
-  <img width="12" />
+---
 
-  
- 
-</div>
+<h2 align="left">📊 GitHub Stats</h2>
 
-📫 Get in Touch
-Feel free to reach out to me:
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=tarungupta45&show_icons=true&theme=radical" width="48%" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tarungupta45&theme=radical" width="48%" alt="GitHub Streak" />
+</p>
 
-LinkedIn :www.linkedin.com/in/tarungupta45
-<br>
-<br>
-email: tarun.gupta2606@gmail.com
-<br>
-<br>
-Let's connect and collaborate on exciting projects!
-<br>
-Thanks for stopping by! ✨
-###
+---
+
+<h2 align="left">📫 Connect with Me</h2>
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/tarungupta45" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:tarun.gupta2606@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://github.com/tarungupta45" target="_blank"><img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+</p>
+
+<p align="center">Let's collaborate and create something amazing! 🚀✨</p>
