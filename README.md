@@ -34,7 +34,6 @@ Hi, I'm **Tarun Gupta**, a passionate **Full-Stack Developer** with expertise in
 ## 📊 GitHub Stats  
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=TarunGupta2602&show_icons=true&theme=radical" width="48%" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TarunGupta2602&theme=radical" width="48%" alt="GitHub Streak" />
 </p>
 
 ---
