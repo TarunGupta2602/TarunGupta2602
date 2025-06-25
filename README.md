@@ -17,7 +17,7 @@
 I'm **Tarun Gupta**, a **Full-Stack Developer** who loves building sleek, scalable web apps with **React.js**, **Next.js**, and more! At **TechCurators**, I’m powering platforms like **transcurators.com** and optimizing sites like **nuvomedsurg.com**. I’m all about solving tough problems, learning new tech, and creating awesome user experiences. Let’s build something incredible together! 😎
 
 - 🎓 **Education**:  
-  - **MCA** (2023–Present) | Inmantec Institutions, AKTU, Ghaziabad  
+  - **MCA** (2023–2025) | Inmantec Institutions, AKTU, Ghaziabad  
   - **BCA** (2020–2023) | Inmantec Institutions, CCSU, Ghaziabad  
 - 💼 **Experience**:  
   - **Full-Stack Developer** at TechCurators (Apr 2025–Present)  
