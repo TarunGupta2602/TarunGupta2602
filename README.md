@@ -44,7 +44,7 @@ I'm **Tarun Gupta**, a **Full-Stack Developer** who loves building sleek, scalab
 ## 📌 Featured Projects
 
 ### 🌐 **GeekSoft** - Web & App Development  
-- 🔗 **Live**: [geeksoft.org](https://parvah.vercel.app/)  
+- 🔗 **Live**: [geeksoft.org](https://www.geeksoft.site/)  
 - 💼 **Services**: Web & App Development, Digital Marketing, Personal Branding  
 - 🛒 **Features**: Shopify integration, Stripe payment gateway  
 - **Tech**: React.js, Next.js, JavaScript  
