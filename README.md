@@ -1,7 +1,7 @@
 <div align="center">
-  <h1>🎮 Tarun Gupta | Pixel Code Master 🕹️</h1>
-  <img src="https://media.giphy.com/media/3o7bu8sRnYpSy7GULC/giphy.gif" width="180" alt="Retro Arcade Animation"/>
-  <p><em>Crafting pixel-perfect digital worlds, one line at a time!</em></p>
+  <h1>🌟 Tarun Gupta | Cosmic Code Voyager 🚀</h1>
+  <img src="https://media.giphy.com/media/SsVY6jIIs7l3y/giphy.gif" width="200" alt="Space Code Animation"/>
+  <p><em>Building the future, one stellar line of code at a time!</em></p>
 </div>
 
 <div align="center">
@@ -12,108 +12,108 @@
 
 ---
 
-## 🕹️ Player One: Ready!
+## 🌌 Mission Briefing
 
-I’m **Tarun Gupta**, a **Full-Stack Game Changer** dominating the digital arcade with **React.js**, **Next.js**, **TypeScript**, and **Supabase**. At **TechCurators**, I power up platforms like **transcurators.com** and supercharge sites like **nuvomedsurg.com**. My mission? To crush coding challenges, unlock new tech levels, and deliver epic user experiences. Let’s team up and hit the high score! 💥
+I’m **Tarun Gupta**, a **Full-Stack Starship Engineer** navigating the digital cosmos with **React.js**, **Next.js**, **TypeScript**, and **Supabase**. At **TechCurators**, I power intergalactic platforms like **transcurators.com** and optimize warp-speed sites like **nuvomedsurg.com**. My mission? To conquer complex challenges, explore new tech frontiers, and craft stellar user experiences. Join me, and let’s launch epic projects into orbit! ✨
 
-- 🎓 **Training Arena**:  
+- 🎓 **Star Academy**:  
   - **MCA** (2023–2025) | Inmantec Institutions, AKTU, Ghaziabad  
   - **BCA** (2020–2023) | Inmantec Institutions, CCSU, Ghaziabad  
-- 💼 **Boss Fights**:  
+- 💼 **Galactic Expeditions**:  
   - **Full-Stack Developer** @ TechCurators (Apr 2025–Present)  
   - **Junior Developer Trainee** @ GTAC Solutions (Nov 2024–Dec 2024)  
-- 🏆 **Achievements Unlocked**: Built **TransCurators**, optimized **nuvomedsurg.com**, and launched blazing-fast commerce and fitness platforms.  
-- 🚀 **Power-Ups**: React Native, GraphQL, TypeScript  
-- ⚡ **Game Rule**: Every bug is a boss battle waiting to be won!
+- 🌟 **Milestones**: Built **TransCurators**, boosted **nuvomedsurg.com** performance, and launched a hyper-fast commerce platform.  
+- 🌱 **Upgrading Systems**: React Native, GraphQL, TypeScript  
+- ⚡ **Cosmic Code**: Every bug is a black hole to navigate and conquer!
 
 ---
 
-## 🎲 Tech Inventory
+## 🛠️ Stellar Toolkit
 
 <div align="left">
   <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,firebase,prisma,mongodb,postgres,graphql,python,java,git,github,tailwind,vscode,vercel,figma,supabase" alt="Tech Stack" />
 </div>
 
-- **Core Weapons**: JavaScript, TypeScript, HTML/CSS, Tailwind CSS, C  
-- **Frameworks & Mods**: React.js, Next.js, Node.js, Prisma  
-- **Data Vaults**: MySQL, MongoDB, Supabase, NeonDB  
-- **Game Tools**: Git, GitHub, VS Code, Cloudinary, Shopify Storefront API, Clerk, Razorpay  
+- **Core Modules**: JavaScript, TypeScript, HTML/CSS, Tailwind CSS, C  
+- **Frameworks & Protocols**: React.js, Next.js, Node.js, Prisma  
+- **Data Nebulae**: MySQL, MongoDB, Supabase, NeonDB  
+- **Navigation Tools**: Git, GitHub, VS Code, Cloudinary, Shopify Storefront API, Clerk, Razorpay  
 
 ---
 
-## 🏅 Signature Levels
+## 🚀 Starship Projects
 
-### 🖥️ **GeekSoft** - Digital Arcade Hub  
+### 🖥️ **GeekSoft** - Galactic Dev Hub  
 - 🔗 [geeksoft.site](https://www.geeksoft.site/)  
-- 🎮 **Objective**: Web & app dev, digital marketing, personal branding  
-- ✨ **Power-Ups**: Shopify integration, Stripe payments, pixel-perfect UI  
+- 🌌 **Mission**: Web & app development, digital marketing, personal branding  
+- ✨ **Features**: Shopify-powered storefront, Stripe payments, holographic UI  
 - 🛠️ **Tech**: React.js, Next.js, JavaScript  
 
-### 📁 **TransCurators** - Content Command Center  
+### 📡 **TransCurators** - Content Constellation  
 - 🔗 [transcurators.com](https://transcurators.com)  
-- 🎮 **Objective**: High-quality content and business solutions platform  
-- ✨ **Power-Ups**: Supabase auth, SEO mastery, responsive design  
+- 🌌 **Mission**: Premium content & business solutions platform  
+- ✨ **Features**: Supabase auth, SEO-optimized, responsive starfield design  
 - 🛠️ **Tech**: React.js, Next.js, Supabase, Tailwind CSS  
 
 ### 🏋️ **Maharana Fitness** - Fitness Battleground  
 - 🔗 [maharana-fitness.vercel.app](https://maharana-fitness.vercel.app/)  
-- 🎮 **Objective**: Fitness club platform with dynamic UX  
-- ✨ **Power-Ups**: Supabase-powered backend, responsive grid, booking system  
+- 🌌 **Mission**: Fitness club platform with dynamic UX  
+- ✨ **Features**: Supabase-powered backend, responsive grid, booking system  
 - 🛠️ **Tech**: Next.js, TypeScript, Supabase, Tailwind CSS  
 
 ### 🌐 **Lusekelo** - Client Showcase Portal  
 - 🔗 [lusekelo.vercel.app](https://lusekelo.vercel.app/)  
-- 🎮 **Objective**: Custom client platform, pragmatic play with sleek design  
-- ✨ **Power-Ups**: TypeScript precision, Supabase data, dynamic UI  
+- 🌌 **Mission**: Custom client platform with sleek design  
+- ✨ **Features**: TypeScript precision, Supabase data, dynamic UI  
 - 🛠️ **Tech**: Next.js, TypeScript, Supabase, Tailwind CSS  
 
-### 🛒 **ShopEase** - E-Commerce Arena  
+### 🛒 **ShopEase** - Commerce Warp Drive  
 - 🔗 [shopease-eosin.vercel.app](https://shopease-eosin.vercel.app/)  
-- 🎮 **Objective**: Electronics marketplace with speed  
-- ✨ **Power-Ups**: Next.js SSR, shopping cart, Vercel CI/CD  
+- 🌌 **Mission**: Electronics marketplace with dynamic navigation  
+- ✨ **Features**: Next.js SSR, shopping cart, Vercel CI/CD pipeline  
 - 🛠️ **Tech**: React.js, Next.js, TypeScript  
 
-### 📚 **Parvah** - Education Hub  
+### 📚 **Parvah** - Educational Nebula  
 - 🔗 [parvah.vercel.app](https://parvah.vercel.app/)  
-- 🎮 **Objective**: Student resource platform with accessibility  
-- ✨ **Power-Ups**: Supabase auth, MongoDB backend, inclusive UI  
+- 🌌 **Mission**: Student resource hub with accessible design  
+- ✨ **Features**: Supabase auth, MongoDB backend, inclusive UI  
 - 🛠️ **Tech**: React.js, Next.js, JavaScript, Supabase, MongoDB  
 
-### 🛍️ **ECOMWEB** - Commerce Battlezone  
+### 🛍️ **ECOMWEB** - Orbital Marketplace  
 - 🔗 [ecomweb-rosy.vercel.app](https://ecomweb-rosy.vercel.app/)  
-- 🎮 **Objective**: Scalable e-commerce platform  
-- ✨ **Power-Ups**: Clerk auth, localStorage cart, Next.js SSR/SSG  
+- 🌌 **Mission**: Scalable e-commerce ecosystem  
+- ✨ **Features**: Clerk auth, localStorage cart, Next.js SSR/SSG  
 - 🛠️ **Tech**: React.js, Next.js, JavaScript, Clerk, Vercel  
 
 ---
 
-## 🎖️ Victory Medals
+## 🏅 Galactic Accolades
 
-- **Front-End Champion** – Great Learning  
-- **Python Power Player** – Great Learning  
-
----
-
-## 📊 Arcade Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TarunGupta2602&show_icons=true&theme=gruvbox&bg_color=1C2526&text_color=C9D1D9&icon_color=F28C38&border_color=5C4B51" width="45%" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TarunGupta2602&theme=gruvbox&background=1C2526&fire=F28C38&currStreakLabel=C9D1D9&sideLabels=C9D1D9&border=5C4B51" width="45%" alt="GitHub Streak" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TarunGupta2602&layout=compact&theme=gruvbox&bg_color=1C2526&text_color=C9D1D9&border_color=5C4B51" alt="Top Languages" />
-</div>
+- **Front-End Star Pilot** – Great Learning  
+- **Python Code Navigator** – Great Learning  
 
 ---
 
-## 👾 Join the Game!
+## 📊 Code Orbit Stats
 
 <div align="center">
-  <img src="https://media.giphy.com/media/KEY9ImCTs5X2M/giphy.gif" width="150" alt="Pixel Game Animation" />
+  <img src="https://github-readme-stats.vercel.app/api?username=TarunGupta2602&show_icons=true&theme=transparent&bg_color=1C2526&text_color=C9D1D9&icon_color=F28C38&border_color=5C4B51" width="45%" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TarunGupta2602&theme=transparent&background=1C2526&fire=F28C38&currStreakLabel=C9D1D9&sideLabels=C9D1D9&border=5C4B51" width="45%" alt="GitHub Streak" />
 </div>
 
-I’m ready to code the next big hit! Got a game-changing project? Let’s team up and dominate the leaderboard!
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TarunGupta2602&layout=compact&theme=transparent&bg_color=1C2526&text_color=C9D1D9&border_color=5C4B51" alt="Top Languages" />
+</div>
+
+---
+
+## 🌠 Launch a Collaboration!
+
+<div align="center">
+  <img src="https://media.giphy.com/media/Y4ak9Ki2GZCbJxAnJD/giphy.gif" width="150" alt="Rocket Launch Animation" />
+</div>
+
+I’m ready to explore new galaxies and build groundbreaking solutions. Got a visionary project? Let’s ignite the thrusters and code the future!
 
 <div align="center">
   <a href="https://linkedin.com/in/tarun2606"><img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?logo=linkedin&logoColor=white&style=popout-square&labelColor=1C2526" alt="LinkedIn"></a>
@@ -121,5 +121,5 @@ I’m ready to code the next big hit! Got a game-changing project? Let’s team 
 </div>
 
 <div align="center">
-  <p>🎯 Code. Create. Win! 🕹️</p>
+  <p>🌌 Code the Cosmos. Create the Future. 🚀</p>
 </div>
