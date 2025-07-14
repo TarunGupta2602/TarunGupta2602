@@ -22,7 +22,7 @@ Hey, I’m **Tarun Gupta**, a **Full-Stack Code Sorcerer** weaving digital magic
   - **Full-Stack Developer** @ TechCurators (Apr 2025–Present)  
   - **Junior Developer Trainee** @ GTAC Solutions (Nov 2024–Dec 2024)  
 - 🌟 **Achievements**: Built **TransCurators**, optimized **nuvomedsurg.com**, and launched a blazing-fast e-commerce platform.  
-- 🔮 **Currently Mastering**: React Native, GraphQL, TypeScript  
+- 🔮 **Currently Mastering**: Next.js, GraphQL, TypeScript  
 - ⚡ **Code Mantra**: Every bug is a portal to a better solution!
 
 ---
