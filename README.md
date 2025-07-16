@@ -110,7 +110,7 @@ I’m **Tarun Gupta**, a **Full-Stack Starship Engineer** navigating the digital
 ## 🌠 Launch a Collaboration!
 
 <div align="center">
-  <img src="https://media.giphy.com/media/Y4ak9Ki2GZCbJxAnJD/giphy.gif" width="150" alt="Rocket Launch Animation" />
+  <img src="https://media.giphy.com/media/Y4ak9Ki2GZCbJxAnJD/giphy.gif" width="550" alt="Rocket Launch Animation" />
 </div>
 
 I’m ready to explore new galaxies and build groundbreaking solutions. Got a visionary project? Let’s ignite the thrusters and code the future!
