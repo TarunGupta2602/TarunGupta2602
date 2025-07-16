@@ -1,6 +1,6 @@
 <div align="center">
   <h1>🌟 Tarun Gupta | Cosmic Code Voyager 🚀</h1>
-  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2lqZ3BmbHBqNHRxaWdpM240cDRhZnJ6YTBscDJscjJ1eG56bWI0eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif" width="300" alt="Space Code Animation"/>
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2lqZ3BmbHBqNHRxaWdpM240cDRhZnJ6YTBscDJscjJ1eG56bWI0eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif" width="250" alt="Space Code Animation"/>
   <p><em>Building the future, one stellar line of code at a time!</em></p>
 </div>
 
@@ -110,7 +110,7 @@ I’m **Tarun Gupta**, a **Full-Stack Starship Engineer** navigating the digital
 ## 🌠 Launch a Collaboration!
 
 <div align="center">
-  <img src="https://media.giphy.com/media/Y4ak9Ki2GZCbJxAnJD/giphy.gif" width="550" alt="Rocket Launch Animation" />
+  <img src="https://media.giphy.com/media/Y4ak9Ki2GZCbJxAnJD/giphy.gif" width="350" alt="Rocket Launch Animation" />
 </div>
 
 I’m ready to explore new galaxies and build groundbreaking solutions. Got a visionary project? Let’s ignite the thrusters and code the future!
