@@ -1,6 +1,6 @@
 <div align="center">
   <h1>🌟 Tarun Gupta | Cosmic Code Voyager 🚀</h1>
-  <img src="https://media.giphy.com/media/SsVY6jIIs7l3y/giphy.gif" width="200" alt="Space Code Animation"/>
+  <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3dTdveTVoMTR2b3l4cjRxOGVnemg4ZmUxbndiMGtmMWpjcDBsZ3g0eiZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/iIqmM5tTjmpOB9mpbn/giphy.gif" width="300" alt="Space Code Animation"/>
   <p><em>Building the future, one stellar line of code at a time!</em></p>
 </div>
 
