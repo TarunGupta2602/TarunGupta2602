@@ -1,125 +1,235 @@
+# Hi there, I'm Tarun Gupta 👋
+
 <div align="center">
-  <h1>🌟 Tarun Gupta | Cosmic Code Voyager 🚀</h1>
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWlzNjh6bTlqdmx6ZzY2YXFnYjBpbm1hbm5sbjc1eGEzMXRhcmE4dyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/gDPxwdP6SKFnsWDJ2u/giphy.gif" width="170" alt="Space Code Animation"/>
-  <p><em>Building the future, one stellar line of code at a time!</em></p>
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=30&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=800&height=100&lines=Full-Stack+Developer;React+%7C+Next.js+%7C+TypeScript;Building+Digital+Experiences" alt="Typing Animation" />
 </div>
 
 <div align="center">
-  <a href="https://linkedin.com/in/tarun2606"><img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?logo=linkedin&logoColor=white&style=popout-square&labelColor=1C2526" alt="LinkedIn"></a>
-  <a href="mailto:tarun.gupta2606@gmail.com"><img src="https://img.shields.io/badge/Email-%23EA4335.svg?logo=gmail&logoColor=white&style=popout-square&labelColor=1C2526" alt="Email"></a>
-  <a href="https://github.com/TarunGupta2602"><img src="https://img.shields.io/badge/GitHub-%2312100E.svg?logo=github&logoColor=white&style=popout-square&labelColor=1C2526" alt="GitHub"></a>
+  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500" alt="Coding Animation" />
+</div>
+
+## 🚀 About Me
+
+
+const tarun = {
+  location: "Ghaziabad, India 🇮🇳",
+  currentRole: "Full-Stack Developer @ TechCurators",
+  education: {
+    masters: "MCA - Inmantec Institutions, AKTU (2023-2025)",
+    bachelors: "BCA - Inmantec Institutions, CCSU (2020-2023)"
+  },
+  passions: ["Clean Code", "User Experience", "Problem Solving"],
+  currentFocus: "Building scalable web applications with modern tech stack",
+  funFact: "I turn coffee into code and bugs into features! ☕→🐛→✨"
+};
+
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/tarun2606)
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tarun.gupta2606@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/TarunGupta2602)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://geeksoft.site)
+
+</div>
+
+## 💻 Tech Stack
+
+<div align="center">
+
+### Frontend
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+### Backend & Database
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+
+### Tools & Services
+![Git](https://img.shields.io/badge/Git-FC6D26?style=for-the-badge&logo=git&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+
+</div>
+
+## 📊 GitHub Analytics
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=TarunGupta2602&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=TarunGupta2602&layout=compact&langs_count=8&theme=algolia&hide_border=true"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TarunGupta2602&theme=algolia&hide_border=true" alt="Tarun's streak"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=TarunGupta2602&bg_color=0d1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" />
+</div>
+
+## 🎯 Featured Projects
+
+<div align="center">
+
+<table>
+<tr>
+<td width="50%">
+
+### 🌐 TransCurators
+**Premium Content Platform**
+
+[![Live Demo](https://img.shields.io/badge/Live-Demo-success?style=flat-square)](https://transcurators.com)
+[![GitHub](https://img.shields.io/badge/Code-Repository-blue?style=flat-square)](https://github.com/TarunGupta2602)
+
+Built with React, Next.js, Supabase
+- Authentication & user management
+- SEO optimized content delivery
+- Responsive design system
+
+</td>
+<td width="50%">
+
+### 🛒 ShopEase
+**E-commerce Platform**
+
+[![Live Demo](https://img.shields.io/badge/Live-Demo-success?style=flat-square)](https://shopease-eosin.vercel.app)
+[![GitHub](https://img.shields.io/badge/Code-Repository-blue?style=flat-square)](https://github.com/TarunGupta2602)
+
+Built with Next.js, TypeScript
+- Dynamic shopping cart
+- Server-side rendering
+- Modern UI/UX design
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 🏋️ Maharana Fitness
+**Fitness Club Platform**
+
+[![Live Demo](https://img.shields.io/badge/Live-Demo-success?style=flat-square)](https://maharana-fitness.vercel.app)
+[![GitHub](https://img.shields.io/badge/Code-Repository-blue?style=flat-square)](https://github.com/TarunGupta2602)
+
+Built with Next.js, TypeScript, Supabase
+- Member booking system
+- Dynamic fitness programs
+- Mobile-first design
+
+</td>
+<td width="50%">
+
+### 💼 GeekSoft
+**Development Agency Portfolio**
+
+[![Live Demo](https://img.shields.io/badge/Live-Demo-success?style=flat-square)](https://geeksoft.site)
+[![GitHub](https://img.shields.io/badge/Code-Repository-blue?style=flat-square)](https://github.com/TarunGupta2602)
+
+Built with React, Next.js, Shopify API
+- Integrated payment system
+- Service showcase
+- Client management
+
+</td>
+</tr>
+</table>
+
+</div>
+
+## 🎓 Experience & Education
+
+<div align="center">
+
+
+timeline
+    title Career Journey
+    2020-2023 : BCA Degree
+              : Inmantec Institutions
+    2023-2025 : MCA Degree
+              : Inmantec Institutions
+    Nov 2024  : Junior Developer Trainee
+              : GTAC Solutions
+    Apr 2025  : Full-Stack Developer
+              : TechCurators
+
+</div>
+
+## 🏆 Achievements
+
+<div align="center">
+
+![Trophy](https://github-profile-trophy.vercel.app/?username=TarunGupta2602&theme=algolia&no-frame=true&no-bg=true&margin-w=4)
+
+</div>
+
+- 🎖️ **Front-End Development** - Great Learning Certified
+- 🐍 **Python Programming** - Great Learning Certified
+- 🚀 **Built 7+ Production Applications** with 10K+ combined visits
+- 💡 **Performance Optimization Expert** - Improved site speeds by 40%+
+
+## 📈 Coding Activity
+
+<div align="center">
+  
+[![Tarun's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=TarunGupta2602&bg_color=0f0f23&color=00d9ff&line=00d9ff&point=ffffff&area=true&hide_border=true)](https://github.com/TarunGupta2602)
+
+</div>
+
+## 💭 Currently...
+
+<div align="center">
+
+
+while (alive) {
+    eat();
+    sleep();
+    code();
+    repeat();
+    
+    if (coffee.isEmpty()) {
+        refill();
+        continue;
+    }
+    
+    if (bug.found()) {
+        debug();
+        celebrate();
+    }
+}
+
+</div>
+
+- 🔭 Working on **scalable web applications** with modern frameworks
+- 🌱 Learning **React Native** and **GraphQL** for mobile development
+- 👯 Looking to collaborate on **open source projects**
+- 🤔 Exploring **AI/ML integration** in web applications
+- 💬 Ask me about **React, Next.js, TypeScript, or Full-Stack Development**
+- ⚡ Fun fact: **I debug with console.log and I'm proud of it!**
+
+## 🤝 Let's Connect!
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" alt="Handshake" width="80"/>
+  
+  **Always open to interesting conversations and collaboration opportunities!**
+  
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/tarun2606)
+  [![Email](https://img.shields.io/badge/Email-Reach_Out-D14836?style=for-the-badge&logo=gmail)](mailto:tarun.gupta2606@gmail.com)
+</div>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=TarunGupta2602&color=blueviolet&style=for-the-badge" alt="Profile views" />
 </div>
 
 ---
 
-## 🌌 Mission Briefing
-
-I’m **Tarun Gupta**, a **Full-Stack Starship Engineer** navigating the digital cosmos with **React.js**, **Next.js**, **TypeScript**, and **Supabase**. At **TechCurators**, I power intergalactic platforms like **transcurators.com** and optimize warp-speed sites like **nuvomedsurg.com**. My mission? To conquer complex challenges, explore new tech frontiers, and craft stellar user experiences. Join me, and let’s launch epic projects into orbit! ✨
-
-- 🎓 **Star Academy**:  
-  - **MCA** (2023–2025) | Inmantec Institutions, AKTU, Ghaziabad  
-  - **BCA** (2020–2023) | Inmantec Institutions, CCSU, Ghaziabad  
-- 💼 **Galactic Expeditions**:  
-  - **Full-Stack Developer** @ TechCurators (Apr 2025–Present)  
-  - **Junior Developer Trainee** @ GTAC Solutions (Nov 2024–Dec 2024)  
-- 🌟 **Milestones**: Built **TransCurators**, boosted **nuvomedsurg.com** performance, and launched a hyper-fast commerce platform.  
-- 🌱 **Upgrading Systems**: React Native, GraphQL, TypeScript  
-- ⚡ **Cosmic Code**: Every bug is a black hole to navigate and conquer!
-
----
-
-## 🛠️ Stellar Toolkit
-
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,firebase,prisma,mongodb,postgres,graphql,python,java,git,github,tailwind,vscode,vercel,figma,supabase" alt="Tech Stack" />
-</div>
-
-- **Core Modules**: JavaScript, TypeScript, HTML/CSS, Tailwind CSS, C  
-- **Frameworks & Protocols**: React.js, Next.js, Node.js, Prisma  
-- **Data Nebulae**: MySQL, MongoDB, Supabase, NeonDB  
-- **Navigation Tools**: Git, GitHub, VS Code, Cloudinary, Shopify Storefront API, Clerk, Razorpay  
-
----
-
-## 🚀 Starship Projects
-
-### 🖥️ **GeekSoft** - Galactic Dev Hub  
-- 🔗 [geeksoft.site](https://www.geeksoft.site/)  
-- 🌌 **Mission**: Web & app development, digital marketing, personal branding  
-- ✨ **Features**: Shopify-powered storefront, Stripe payments, holographic UI  
-- 🛠️ **Tech**: React.js, Next.js, JavaScript  
-
-### 📡 **TransCurators** - Content Constellation  
-- 🔗 [transcurators.com](https://transcurators.com)  
-- 🌌 **Mission**: Premium content & business solutions platform  
-- ✨ **Features**: Supabase auth, SEO-optimized, responsive starfield design  
-- 🛠️ **Tech**: React.js, Next.js, Supabase, Tailwind CSS  
-
-### 🏋️ **Maharana Fitness** - Fitness Battleground  
-- 🔗 [maharana-fitness.vercel.app](https://maharana-fitness.vercel.app/)  
-- 🌌 **Mission**: Fitness club platform with dynamic UX  
-- ✨ **Features**: Supabase-powered backend, responsive grid, booking system  
-- 🛠️ **Tech**: Next.js, TypeScript, Supabase, Tailwind CSS  
-
-### 🌐 **Lusekelo** - Client Showcase Portal  
-- 🔗 [lusekelo.vercel.app](https://lusekelo.vercel.app/)  
-- 🌌 **Mission**: Custom client platform with sleek design  
-- ✨ **Features**: TypeScript precision, Supabase data, dynamic UI  
-- 🛠️ **Tech**: Next.js, TypeScript, Supabase, Tailwind CSS  
-
-### 🛒 **ShopEase** - Commerce Warp Drive  
-- 🔗 [shopease-eosin.vercel.app](https://shopease-eosin.vercel.app/)  
-- 🌌 **Mission**: Electronics marketplace with dynamic navigation  
-- ✨ **Features**: Next.js SSR, shopping cart, Vercel CI/CD pipeline  
-- 🛠️ **Tech**: React.js, Next.js, TypeScript  
-
-### 📚 **Parvah** - Educational Nebula  
-- 🔗 [parvah.vercel.app](https://parvah.vercel.app/)  
-- 🌌 **Mission**: Student resource hub with accessible design  
-- ✨ **Features**: Supabase auth, MongoDB backend, inclusive UI  
-- 🛠️ **Tech**: React.js, Next.js, JavaScript, Supabase, MongoDB  
-
-### 🛍️ **ECOMWEB** - Orbital Marketplace  
-- 🔗 [ecomweb-rosy.vercel.app](https://ecomweb-rosy.vercel.app/)  
-- 🌌 **Mission**: Scalable e-commerce ecosystem  
-- ✨ **Features**: Clerk auth, localStorage cart, Next.js SSR/SSG  
-- 🛠️ **Tech**: React.js, Next.js, JavaScript, Clerk, Vercel  
-
----
-
-## 🏅 Galactic Accolades
-
-- **Front-End Star Pilot** – Great Learning  
-- **Python Code Navigator** – Great Learning  
-
----
-
-## 📊 Code Orbit Stats
-
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TarunGupta2602&show_icons=true&theme=transparent&bg_color=1C2526&text_color=C9D1D9&icon_color=F28C38&border_color=5C4B51" width="45%" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TarunGupta2602&theme=transparent&background=1C2526&fire=F28C38&currStreakLabel=C9D1D9&sideLabels=C9D1D9&border=5C4B51" width="45%" alt="GitHub Streak" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TarunGupta2602&layout=compact&theme=transparent&bg_color=1C2526&text_color=C9D1D9&border_color=5C4B51" alt="Top Languages" />
-</div>
-
----
-
-## 🌠 Launch a Collaboration!
-
-<div align="center">
-  <img src="https://media.giphy.com/media/Y4ak9Ki2GZCbJxAnJD/giphy.gif" width="350" alt="Rocket Launch Animation" />
-</div>
-
-I’m ready to explore new galaxies and build groundbreaking solutions. Got a visionary project? Let’s ignite the thrusters and code the future!
-
-<div align="center">
-  <a href="https://linkedin.com/in/tarun2606"><img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?logo=linkedin&logoColor=white&style=popout-square&labelColor=1C2526" alt="LinkedIn"></a>
-  <a href="mailto:tarun.gupta2606@gmail.com"><img src="https://img.shields.io/badge/Email-%23EA4335.svg?logo=gmail&logoColor=white&style=popout-square&labelColor=1C2526" alt="Email"></a>
-</div>
-
-<div align="center">
-  <p>🌌 Code the Cosmos. Create the Future. 🚀</p>
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=18&duration=4000&pause=1000&color=00D9FF&center=true&vCenter=true&width=500&lines=Thanks+for+visiting!+%F0%9F%98%8A;Let's+build+something+amazing+together!;Happy+coding!+%F0%9F%9A%80" alt="Footer Animation" />
 </div>
