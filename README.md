@@ -10,7 +10,7 @@
 
 ## 🚀 About Me
 
-
+```typescript
 const tarun = {
   location: "Ghaziabad, India 🇮🇳",
   currentRole: "Full-Stack Developer @ TechCurators",
@@ -22,7 +22,7 @@ const tarun = {
   currentFocus: "Building scalable web applications with modern tech stack",
   funFact: "I turn coffee into code and bugs into features! ☕→🐛→✨"
 };
-
+```
 
 <div align="center">
 
@@ -147,7 +147,7 @@ Built with React, Next.js, Shopify API
 
 <div align="center">
 
-
+```mermaid
 timeline
     title Career Journey
     2020-2023 : BCA Degree
@@ -158,6 +158,7 @@ timeline
               : GTAC Solutions
     Apr 2025  : Full-Stack Developer
               : TechCurators
+```
 
 </div>
 
@@ -186,7 +187,7 @@ timeline
 
 <div align="center">
 
-
+```javascript
 while (alive) {
     eat();
     sleep();
@@ -203,6 +204,7 @@ while (alive) {
         celebrate();
     }
 }
+```
 
 </div>
 
